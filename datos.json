@@ -1,19 +1,17 @@
 {
-  "clienteId": 11112785,
+  "id": 11112785,
   "nombreCliente": "Nico",
-  "reporteFechaInicio": "2023-01-01",
-  "reporteFechaFin": "2023-12-31",
   "cuentas": [
     {
-      "numeroCuenta": "11112785",
-      "tipoCuenta": "Ahorros",
-      "saldoDisponible": 1500.00,
+      "numero_cuenta": "11112785",
+      "tipo_cuenta": "Ahorros",
+      "saldo_inicial": 1500.00,
       "movimientos": [
         {
           "fecha": "2023-01-15T12:00:00",
-          "tipoMovimiento": "Depósito",
+          "tipo_movimiento": "Depósito",
           "valor": 500.00,
-          "saldoDespuesMovimiento": 1500.00
+          "saldo_inicial": 1500.00
         }
       ]
     }
